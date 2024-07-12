@@ -3,6 +3,7 @@ import  './Navbar.css'
 import {assets}  from '../../assets/assets'
 import {Link} from 'react-router-dom'
 import { StoreContext } from '../../context/StoreContext'
+// navbar
 
 const Navbar = ({setShowLogin}) => {
 
